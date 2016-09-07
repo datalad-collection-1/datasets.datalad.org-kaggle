@@ -1,0 +1,3 @@
+[submodule "melbourne-university-seizure-prediction"]
+	path = melbourne-university-seizure-prediction
+	url = ./melbourne-university-seizure-prediction
