@@ -1,0 +1,13 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "f3fab990-7474-11e6-938a-002590f97d84",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "http://kaggle.com",
+    "name": "Some datasets from Kaggle",
+    "type": "Dataset"
+  }
+]
